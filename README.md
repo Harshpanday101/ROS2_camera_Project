@@ -161,10 +161,6 @@ ros2 service call /image_conversion/set_mode std_srvs/srv/SetBool "{data: true}"
 - `cv_bridge`
 - `usb_cam` ROS 2 package
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
